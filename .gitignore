@@ -107,3 +107,4 @@ venv.bak/
 *.dot
 *.csv
 *.nii.gz
+traces
